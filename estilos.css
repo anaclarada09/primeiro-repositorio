@@ -2,6 +2,11 @@ body {
    
 }
 
+.titulo-principal{
+    padding-left: 25px;
+    background-color: darkgray;
+    color: #FFFFFF;
+}
 img{
     width: 100%;
 }
@@ -11,7 +16,7 @@ img{
         padding: 30px;
     }
 
-h1 {
+h2 {
     text-align: center;
 } 
 
@@ -32,7 +37,7 @@ padding: 20px;
 
 }
 
-h2 {
+h3 {
     text-align: center;
 }
 
