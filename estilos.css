@@ -1,39 +1,39 @@
-body {
-   
-}
+body {}
 
-.titulo-principal{
+.titulo-principal {
     padding-left: 25px;
     background-color: darkgray;
     color: #FFFFFF;
 }
-img{
+
+img {
     width: 100%;
 }
 
-    .principal {
-        background-color: aqua;
-        padding: 30px;
-    }
+.principal {
+    background-color: aqua;
+    padding: 30px;
+}
 
 h2 {
     text-align: center;
-} 
+}
 
 p {
     text-align: center;
-} 
-em strong{
-    color: black;
+}
+
+em strong {
+    color: red;
 }
 
 #missao {
-    font-size: ; 20px
+    font-size: 20px;
 }
 
 .beneficios {
-background-color: #FFFFFF;
-padding: 20px;
+    background-color: #FFFFFF;
+    padding: 20px;
 
 }
 
@@ -48,7 +48,7 @@ ul {
     margin-right: 15%;
 }
 
-.itens { 
+.itens {
     font-style: italic;
 }
 
